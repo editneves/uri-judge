@@ -1,0 +1,16 @@
+/home/ubuntu/projects/uri-judge/1008/bin/Debug/net5.0/1008
+/home/ubuntu/projects/uri-judge/1008/bin/Debug/net5.0/1008.deps.json
+/home/ubuntu/projects/uri-judge/1008/bin/Debug/net5.0/1008.runtimeconfig.json
+/home/ubuntu/projects/uri-judge/1008/bin/Debug/net5.0/1008.runtimeconfig.dev.json
+/home/ubuntu/projects/uri-judge/1008/bin/Debug/net5.0/1008.dll
+/home/ubuntu/projects/uri-judge/1008/bin/Debug/net5.0/ref/1008.dll
+/home/ubuntu/projects/uri-judge/1008/bin/Debug/net5.0/1008.pdb
+/home/ubuntu/projects/uri-judge/1008/obj/Debug/net5.0/1008.csproj.AssemblyReference.cache
+/home/ubuntu/projects/uri-judge/1008/obj/Debug/net5.0/1008.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/projects/uri-judge/1008/obj/Debug/net5.0/1008.AssemblyInfoInputs.cache
+/home/ubuntu/projects/uri-judge/1008/obj/Debug/net5.0/1008.AssemblyInfo.cs
+/home/ubuntu/projects/uri-judge/1008/obj/Debug/net5.0/1008.csproj.CoreCompileInputs.cache
+/home/ubuntu/projects/uri-judge/1008/obj/Debug/net5.0/1008.dll
+/home/ubuntu/projects/uri-judge/1008/obj/Debug/net5.0/ref/1008.dll
+/home/ubuntu/projects/uri-judge/1008/obj/Debug/net5.0/1008.pdb
+/home/ubuntu/projects/uri-judge/1008/obj/Debug/net5.0/1008.genruntimeconfig.cache
