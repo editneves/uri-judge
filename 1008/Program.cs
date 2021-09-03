@@ -6,8 +6,8 @@ namespace _1008
     {
         static void Main(string[] args)
         {
-            var number = uint.Parse(Console.ReadLine());
-            var workedHours = uint.Parse(Console.ReadLine());
+            var number = byte.Parse(Console.ReadLine());
+            var workedHours = byte.Parse(Console.ReadLine());
             var priceHour = float.Parse(Console.ReadLine());
 
             var salary = workedHours * priceHour;
