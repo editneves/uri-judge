@@ -9,7 +9,7 @@ namespace _1008
             var number = uint.Parse(Console.ReadLine());
             var workedHours = uint.Parse(Console.ReadLine());
             var priceHour = float.Parse(Console.ReadLine());
-            
+
             var salary = workedHours * priceHour;
 
             Console.WriteLine($"NUMBER = {number}");
