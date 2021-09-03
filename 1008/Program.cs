@@ -4,7 +4,6 @@ namespace _1008
 {
     class Program
     {
-
         static void Main(string[] args)
         {
             var number = uint.Parse(Console.ReadLine());
