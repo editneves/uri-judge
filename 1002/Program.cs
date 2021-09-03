@@ -7,7 +7,7 @@ namespace _1002
         static void Main(string[] args)
         {
             double pi = 3.14159;
-        
+
             string r = Console.ReadLine();
 
             double raio = double.Parse(r);
