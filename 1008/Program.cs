@@ -4,11 +4,17 @@ namespace _1008
 {
     class Program
     {
+        static dynamic Read(Type dest)
+        {
+            string input = Console.ReadLine();
+            return Convert.ChangeType(input, dest);
+        }
+
         static void Main(string[] args)
         {
-            var number = byte.Parse(Console.ReadLine());
-            var workedHours = byte.Parse(Console.ReadLine());
-            var priceHour = float.Parse(Console.ReadLine());
+            var number = Read(typeof(byte));
+            var workedHours = Read(typeof(byte));
+            var priceHour = Read(typeof(float));
 
             var salary = workedHours * priceHour;
 
